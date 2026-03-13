@@ -42,3 +42,15 @@ Sinh viên Công nghệ thông tin
 ---
 
 ⭐ Nếu repo hữu ích hãy để lại **Star** nhé!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+<!---LeetCode Topics End-->
