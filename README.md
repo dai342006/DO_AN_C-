@@ -58,6 +58,7 @@ Sinh viên Công nghệ thông tin
 ## Math
 |  |
 | ------- |
+| [2235-add-two-integers](https://github.com/dai342006/DO_AN_C-/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/dai342006/DO_AN_C-/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dai342006/DO_AN_C-/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Simulation
