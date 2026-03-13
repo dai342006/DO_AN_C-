@@ -49,8 +49,13 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/dai342006/DO_AN_C-/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [3232-find-if-digit-game-can-be-won](https://github.com/dai342006/DO_AN_C-/tree/master/3232-find-if-digit-game-can-be-won) |
 <!---LeetCode Topics End-->
