@@ -56,9 +56,11 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1025-divisor-game](https://github.com/dai342006/DO_AN_C-/tree/master/1025-divisor-game) |
 ## Math
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/dai342006/DO_AN_C-/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 | [1952-three-divisors](https://github.com/dai342006/DO_AN_C-/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/dai342006/DO_AN_C-/tree/master/2235-add-two-integers) |
@@ -90,4 +92,12 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/dai342006/DO_AN_C-/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/dai342006/DO_AN_C-/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
