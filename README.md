@@ -60,6 +60,7 @@ Sinh viên Công nghệ thông tin
 ## Math
 |  |
 | ------- |
+| [0728-self-dividing-numbers](https://github.com/dai342006/DO_AN_C-/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/dai342006/DO_AN_C-/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 | [1952-three-divisors](https://github.com/dai342006/DO_AN_C-/tree/master/1952-three-divisors) |
