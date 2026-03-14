@@ -58,6 +58,7 @@ Sinh viên Công nghệ thông tin
 ## Math
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/dai342006/DO_AN_C-/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/dai342006/DO_AN_C-/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/dai342006/DO_AN_C-/tree/master/3099-harshad-number) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dai342006/DO_AN_C-/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -75,4 +76,12 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/dai342006/DO_AN_C-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/dai342006/DO_AN_C-/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/dai342006/DO_AN_C-/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
