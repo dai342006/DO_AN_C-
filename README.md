@@ -49,6 +49,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 | [2293-min-max-game](https://github.com/dai342006/DO_AN_C-/tree/master/2293-min-max-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dai342006/DO_AN_C-/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ Sinh viên Công nghệ thông tin
 ## Math
 |  |
 | ------- |
+| [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 | [1952-three-divisors](https://github.com/dai342006/DO_AN_C-/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/dai342006/DO_AN_C-/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/dai342006/DO_AN_C-/tree/master/3099-harshad-number) |
@@ -84,4 +86,8 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/dai342006/DO_AN_C-/tree/master/1952-three-divisors) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
