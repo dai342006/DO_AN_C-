@@ -60,6 +60,7 @@ Sinh viên Công nghệ thông tin
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/dai342006/DO_AN_C-/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/dai342006/DO_AN_C-/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/dai342006/DO_AN_C-/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/dai342006/DO_AN_C-/tree/master/1025-divisor-game) |
@@ -102,4 +103,12 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/dai342006/DO_AN_C-/tree/master/1025-divisor-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/dai342006/DO_AN_C-/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/dai342006/DO_AN_C-/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
