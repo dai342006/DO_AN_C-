@@ -159,6 +159,7 @@ Sinh viên Công nghệ thông tin
 ## Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/dai342006/DO_AN_C-/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0965-univalued-binary-tree) |
@@ -166,6 +167,7 @@ Sinh viên Công nghệ thông tin
 ## Binary Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/dai342006/DO_AN_C-/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0965-univalued-binary-tree) |
@@ -177,5 +179,6 @@ Sinh viên Công nghệ thông tin
 ## Binary Search Tree
 |  |
 | ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
