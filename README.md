@@ -152,4 +152,12 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/dai342006/DO_AN_C-/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/dai342006/DO_AN_C-/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
