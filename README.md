@@ -60,6 +60,7 @@ Sinh viên Công nghệ thông tin
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/dai342006/DO_AN_C-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dai342006/DO_AN_C-/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/dai342006/DO_AN_C-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/dai342006/DO_AN_C-/tree/master/0326-power-of-three) |
@@ -75,6 +76,7 @@ Sinh viên Công nghệ thông tin
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/dai342006/DO_AN_C-/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dai342006/DO_AN_C-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/dai342006/DO_AN_C-/tree/master/2293-min-max-game) |
 ## String
@@ -93,6 +95,7 @@ Sinh viên Công nghệ thông tin
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/dai342006/DO_AN_C-/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/dai342006/DO_AN_C-/tree/master/1952-three-divisors) |
 ## Geometry
 |  |
