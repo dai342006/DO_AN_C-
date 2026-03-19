@@ -136,4 +136,8 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/dai342006/DO_AN_C-/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
