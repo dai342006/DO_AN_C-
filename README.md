@@ -130,6 +130,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/dai342006/DO_AN_C-/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/dai342006/DO_AN_C-/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -141,6 +142,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/dai342006/DO_AN_C-/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/dai342006/DO_AN_C-/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
@@ -162,6 +164,7 @@ Sinh viên Công nghệ thông tin
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/dai342006/DO_AN_C-/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0700-search-in-a-binary-search-tree) |
@@ -172,6 +175,7 @@ Sinh viên Công nghệ thông tin
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/dai342006/DO_AN_C-/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0700-search-in-a-binary-search-tree) |
