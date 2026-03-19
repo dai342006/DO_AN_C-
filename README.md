@@ -49,6 +49,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/dai342006/DO_AN_C-/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
@@ -128,20 +129,27 @@ Sinh viên Công nghệ thông tin
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/dai342006/DO_AN_C-/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/dai342006/DO_AN_C-/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/dai342006/DO_AN_C-/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
 ## Graph Theory
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/dai342006/DO_AN_C-/tree/master/1791-find-center-of-star-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
