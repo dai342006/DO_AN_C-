@@ -60,6 +60,7 @@ Sinh viên Công nghệ thông tin
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/dai342006/DO_AN_C-/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/dai342006/DO_AN_C-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/dai342006/DO_AN_C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dai342006/DO_AN_C-/tree/master/0342-power-of-four) |
