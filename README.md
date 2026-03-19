@@ -89,6 +89,7 @@ Sinh viên Công nghệ thông tin
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/dai342006/DO_AN_C-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dai342006/DO_AN_C-/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
@@ -123,6 +124,7 @@ Sinh viên Công nghệ thông tin
 | ------- |
 | [0231-power-of-two](https://github.com/dai342006/DO_AN_C-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/dai342006/DO_AN_C-/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -200,6 +202,7 @@ Sinh viên Công nghệ thông tin
 ## Hash Table
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -212,6 +215,7 @@ Sinh viên Công nghệ thông tin
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
