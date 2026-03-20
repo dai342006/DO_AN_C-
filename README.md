@@ -48,6 +48,7 @@ Sinh viên Công nghệ thông tin
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dai342006/DO_AN_C-/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dai342006/DO_AN_C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
@@ -243,6 +244,7 @@ Sinh viên Công nghệ thông tin
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/dai342006/DO_AN_C-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/dai342006/DO_AN_C-/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/dai342006/DO_AN_C-/tree/master/0290-word-pattern) |
