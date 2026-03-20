@@ -91,6 +91,7 @@ Sinh viên Công nghệ thông tin
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/dai342006/DO_AN_C-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dai342006/DO_AN_C-/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -138,6 +139,7 @@ Sinh viên Công nghệ thông tin
 | ------- |
 | [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/dai342006/DO_AN_C-/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/dai342006/DO_AN_C-/tree/master/0463-island-perimeter) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -175,6 +177,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/dai342006/DO_AN_C-/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0572-subtree-of-another-tree) |
@@ -188,6 +191,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/dai342006/DO_AN_C-/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0572-subtree-of-another-tree) |
@@ -260,4 +264,8 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
