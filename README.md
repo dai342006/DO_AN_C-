@@ -103,6 +103,7 @@ Sinh viên Công nghệ thông tin
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dai342006/DO_AN_C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/dai342006/DO_AN_C-/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
@@ -247,6 +248,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dai342006/DO_AN_C-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dai342006/DO_AN_C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/dai342006/DO_AN_C-/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/dai342006/DO_AN_C-/tree/master/0290-word-pattern) |
@@ -328,6 +330,7 @@ Sinh viên Công nghệ thông tin
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/dai342006/DO_AN_C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/dai342006/DO_AN_C-/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
