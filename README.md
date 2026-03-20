@@ -56,6 +56,7 @@ Sinh viên Công nghệ thông tin
 | [0463-island-perimeter](https://github.com/dai342006/DO_AN_C-/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/dai342006/DO_AN_C-/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/dai342006/DO_AN_C-/tree/master/0575-distribute-candies) |
+| [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/dai342006/DO_AN_C-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
@@ -233,6 +234,7 @@ Sinh viên Công nghệ thông tin
 | [0441-arranging-coins](https://github.com/dai342006/DO_AN_C-/tree/master/0441-arranging-coins) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -256,6 +258,7 @@ Sinh viên Công nghệ thông tin
 | [0143-reorder-list](https://github.com/dai342006/DO_AN_C-/tree/master/0143-reorder-list) |
 | [0455-assign-cookies](https://github.com/dai342006/DO_AN_C-/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Divide and Conquer
 |  |
@@ -266,11 +269,13 @@ Sinh viên Công nghệ thông tin
 | ------- |
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/dai342006/DO_AN_C-/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -318,6 +323,7 @@ Sinh viên Công nghệ thông tin
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/dai342006/DO_AN_C-/tree/master/0424-longest-repeating-character-replacement) |
+| [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
 ## Interactive
 |  |
 | ------- |
