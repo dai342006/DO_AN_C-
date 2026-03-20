@@ -131,6 +131,7 @@ Sinh viên Công nghệ thông tin
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/dai342006/DO_AN_C-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/dai342006/DO_AN_C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dai342006/DO_AN_C-/tree/master/0342-power-of-four) |
@@ -272,4 +273,8 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
