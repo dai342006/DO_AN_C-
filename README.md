@@ -49,6 +49,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dai342006/DO_AN_C-/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/dai342006/DO_AN_C-/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dai342006/DO_AN_C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
@@ -236,6 +237,7 @@ Sinh viên Công nghệ thông tin
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/dai342006/DO_AN_C-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dai342006/DO_AN_C-/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dai342006/DO_AN_C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/dai342006/DO_AN_C-/tree/master/0278-first-bad-version) |
