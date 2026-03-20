@@ -77,6 +77,7 @@ Sinh viên Công nghệ thông tin
 | [0292-nim-game](https://github.com/dai342006/DO_AN_C-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/dai342006/DO_AN_C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/dai342006/DO_AN_C-/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/dai342006/DO_AN_C-/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/dai342006/DO_AN_C-/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/dai342006/DO_AN_C-/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/dai342006/DO_AN_C-/tree/master/0728-self-dividing-numbers) |
@@ -91,6 +92,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/dai342006/DO_AN_C-/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/dai342006/DO_AN_C-/tree/master/0412-fizz-buzz) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dai342006/DO_AN_C-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/dai342006/DO_AN_C-/tree/master/2293-min-max-game) |
 ## String
@@ -99,6 +101,7 @@ Sinh viên Công nghệ thông tin
 | [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/dai342006/DO_AN_C-/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/dai342006/DO_AN_C-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/dai342006/DO_AN_C-/tree/master/0424-longest-repeating-character-replacement) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/dai342006/DO_AN_C-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dai342006/DO_AN_C-/tree/master/2243-calculate-digit-sum-of-a-string) |
