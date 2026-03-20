@@ -70,6 +70,7 @@ Sinh viên Công nghệ thông tin
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/dai342006/DO_AN_C-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/dai342006/DO_AN_C-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/dai342006/DO_AN_C-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/dai342006/DO_AN_C-/tree/master/0263-ugly-number) |
@@ -220,6 +221,7 @@ Sinh viên Công nghệ thông tin
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/dai342006/DO_AN_C-/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/dai342006/DO_AN_C-/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/dai342006/DO_AN_C-/tree/master/0441-arranging-coins) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0501-find-mode-in-binary-search-tree) |
