@@ -50,6 +50,7 @@ Sinh viên Công nghệ thông tin
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
+| [0219-contains-duplicate-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0219-contains-duplicate-ii) |
 | [0454-4sum-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0454-4sum-ii) |
 | [0463-island-perimeter](https://github.com/dai342006/DO_AN_C-/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/dai342006/DO_AN_C-/tree/master/0485-max-consecutive-ones) |
@@ -224,6 +225,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/dai342006/DO_AN_C-/tree/master/0141-linked-list-cycle) |
+| [0219-contains-duplicate-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/dai342006/DO_AN_C-/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0454-4sum-ii) |
@@ -292,5 +294,6 @@ Sinh viên Công nghệ thông tin
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/dai342006/DO_AN_C-/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
