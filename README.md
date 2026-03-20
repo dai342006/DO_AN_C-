@@ -227,6 +227,7 @@ Sinh viên Công nghệ thông tin
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dai342006/DO_AN_C-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Divide and Conquer
 |  |
@@ -276,6 +277,7 @@ Sinh viên Công nghệ thông tin
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/dai342006/DO_AN_C-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/dai342006/DO_AN_C-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
