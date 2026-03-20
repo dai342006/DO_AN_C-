@@ -63,6 +63,7 @@ Sinh viên Công nghệ thông tin
 | [0704-binary-search](https://github.com/dai342006/DO_AN_C-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/dai342006/DO_AN_C-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/dai342006/DO_AN_C-/tree/master/0739-daily-temperatures) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -234,6 +235,7 @@ Sinh viên Công nghệ thông tin
 | [0143-reorder-list](https://github.com/dai342006/DO_AN_C-/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dai342006/DO_AN_C-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/dai342006/DO_AN_C-/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/dai342006/DO_AN_C-/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -348,4 +350,8 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dai342006/DO_AN_C-/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/dai342006/DO_AN_C-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
