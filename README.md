@@ -233,6 +233,7 @@ Sinh viên Công nghệ thông tin
 | ------- |
 | [0143-reorder-list](https://github.com/dai342006/DO_AN_C-/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dai342006/DO_AN_C-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/dai342006/DO_AN_C-/tree/master/0155-min-stack) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
@@ -343,4 +344,8 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/dai342006/DO_AN_C-/tree/master/0278-first-bad-version) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/dai342006/DO_AN_C-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
