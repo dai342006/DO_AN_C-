@@ -137,6 +137,7 @@ Sinh viên Công nghệ thông tin
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/dai342006/DO_AN_C-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
@@ -176,6 +177,7 @@ Sinh viên Công nghệ thông tin
 ## Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/dai342006/DO_AN_C-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/dai342006/DO_AN_C-/tree/master/0404-sum-of-left-leaves) |
@@ -190,6 +192,7 @@ Sinh viên Công nghệ thông tin
 ## Binary Tree
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/dai342006/DO_AN_C-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/dai342006/DO_AN_C-/tree/master/0404-sum-of-left-leaves) |
@@ -204,6 +207,7 @@ Sinh viên Công nghệ thông tin
 ## Stack
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/dai342006/DO_AN_C-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
