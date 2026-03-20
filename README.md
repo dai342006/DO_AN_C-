@@ -276,5 +276,6 @@ Sinh viên Công nghệ thông tin
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/dai342006/DO_AN_C-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
