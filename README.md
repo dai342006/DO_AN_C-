@@ -55,6 +55,7 @@ Sinh viên Công nghệ thông tin
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dai342006/DO_AN_C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dai342006/DO_AN_C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/dai342006/DO_AN_C-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0219-contains-duplicate-ii) |
 | [0454-4sum-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/dai342006/DO_AN_C-/tree/master/0455-assign-cookies) |
@@ -269,6 +270,7 @@ Sinh viên Công nghệ thông tin
 | [0001-two-sum](https://github.com/dai342006/DO_AN_C-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dai342006/DO_AN_C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/dai342006/DO_AN_C-/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/dai342006/DO_AN_C-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/dai342006/DO_AN_C-/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
@@ -298,6 +300,7 @@ Sinh viên Công nghệ thông tin
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/dai342006/DO_AN_C-/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/dai342006/DO_AN_C-/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
