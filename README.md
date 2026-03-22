@@ -108,6 +108,7 @@ Sinh viên Công nghệ thông tin
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dai342006/DO_AN_C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/dai342006/DO_AN_C-/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/dai342006/DO_AN_C-/tree/master/0020-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/dai342006/DO_AN_C-/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
@@ -232,6 +233,7 @@ Sinh viên Công nghệ thông tin
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/dai342006/DO_AN_C-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/dai342006/DO_AN_C-/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dai342006/DO_AN_C-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/dai342006/DO_AN_C-/tree/master/0155-min-stack) |
