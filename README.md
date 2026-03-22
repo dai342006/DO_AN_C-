@@ -49,6 +49,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dai342006/DO_AN_C-/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dai342006/DO_AN_C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/dai342006/DO_AN_C-/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dai342006/DO_AN_C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -280,6 +281,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dai342006/DO_AN_C-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/dai342006/DO_AN_C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/dai342006/DO_AN_C-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/dai342006/DO_AN_C-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dai342006/DO_AN_C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
