@@ -77,6 +77,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/dai342006/DO_AN_C-/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/dai342006/DO_AN_C-/tree/master/1025-divisor-game) |
 ## Math
 |  |
@@ -116,6 +117,7 @@ Sinh viên Công nghệ thông tin
 | [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/dai342006/DO_AN_C-/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/dai342006/DO_AN_C-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/dai342006/DO_AN_C-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/dai342006/DO_AN_C-/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/dai342006/DO_AN_C-/tree/master/0709-to-lower-case) |
@@ -287,6 +289,7 @@ Sinh viên Công nghệ thông tin
 | [0141-linked-list-cycle](https://github.com/dai342006/DO_AN_C-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/dai342006/DO_AN_C-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dai342006/DO_AN_C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/dai342006/DO_AN_C-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/dai342006/DO_AN_C-/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
