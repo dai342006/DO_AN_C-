@@ -117,6 +117,7 @@ Sinh viên Công nghệ thông tin
 | [0424-longest-repeating-character-replacement](https://github.com/dai342006/DO_AN_C-/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/dai342006/DO_AN_C-/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dai342006/DO_AN_C-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/dai342006/DO_AN_C-/tree/master/2000-reverse-prefix-of-word) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/dai342006/DO_AN_C-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dai342006/DO_AN_C-/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Greedy
@@ -242,6 +243,7 @@ Sinh viên Công nghệ thông tin
 | [0739-daily-temperatures](https://github.com/dai342006/DO_AN_C-/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dai342006/DO_AN_C-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2000-reverse-prefix-of-word](https://github.com/dai342006/DO_AN_C-/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -283,6 +285,7 @@ Sinh viên Công nghệ thông tin
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2000-reverse-prefix-of-word](https://github.com/dai342006/DO_AN_C-/tree/master/2000-reverse-prefix-of-word) |
 ## Divide and Conquer
 |  |
 | ------- |
