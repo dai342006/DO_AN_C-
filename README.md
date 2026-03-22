@@ -52,6 +52,7 @@ Sinh viên Công nghệ thông tin
 | [0035-search-insert-position](https://github.com/dai342006/DO_AN_C-/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dai342006/DO_AN_C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dai342006/DO_AN_C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0219-contains-duplicate-ii) |
 | [0454-4sum-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0454-4sum-ii) |
@@ -247,6 +248,7 @@ Sinh viên Công nghệ thông tin
 | [0035-search-insert-position](https://github.com/dai342006/DO_AN_C-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/dai342006/DO_AN_C-/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dai342006/DO_AN_C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dai342006/DO_AN_C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/dai342006/DO_AN_C-/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/dai342006/DO_AN_C-/tree/master/0441-arranging-coins) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -276,6 +278,7 @@ Sinh viên Công nghệ thông tin
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dai342006/DO_AN_C-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/dai342006/DO_AN_C-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/dai342006/DO_AN_C-/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/dai342006/DO_AN_C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/dai342006/DO_AN_C-/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
