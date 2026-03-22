@@ -61,6 +61,7 @@ Sinh viên Công nghệ thông tin
 | [0455-assign-cookies](https://github.com/dai342006/DO_AN_C-/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/dai342006/DO_AN_C-/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/dai342006/DO_AN_C-/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/dai342006/DO_AN_C-/tree/master/0495-teemo-attacking) |
 | [0575-distribute-candies](https://github.com/dai342006/DO_AN_C-/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/dai342006/DO_AN_C-/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
@@ -107,6 +108,7 @@ Sinh viên Công nghệ thông tin
 | ------- |
 | [0258-add-digits](https://github.com/dai342006/DO_AN_C-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dai342006/DO_AN_C-/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/dai342006/DO_AN_C-/tree/master/0495-teemo-attacking) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dai342006/DO_AN_C-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/dai342006/DO_AN_C-/tree/master/2293-min-max-game) |
 ## String
