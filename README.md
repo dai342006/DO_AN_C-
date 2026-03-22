@@ -65,6 +65,7 @@ Sinh viên Công nghệ thông tin
 | [0724-find-pivot-index](https://github.com/dai342006/DO_AN_C-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/dai342006/DO_AN_C-/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/dai342006/DO_AN_C-/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -124,6 +125,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/dai342006/DO_AN_C-/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/dai342006/DO_AN_C-/tree/master/0881-boats-to-save-people) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/dai342006/DO_AN_C-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Enumeration
 |  |
@@ -284,6 +286,7 @@ Sinh viên Công nghệ thông tin
 | [0455-assign-cookies](https://github.com/dai342006/DO_AN_C-/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/dai342006/DO_AN_C-/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/dai342006/DO_AN_C-/tree/master/2000-reverse-prefix-of-word) |
 ## Divide and Conquer
@@ -296,6 +299,7 @@ Sinh viên Công nghệ thông tin
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/dai342006/DO_AN_C-/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
+| [0881-boats-to-save-people](https://github.com/dai342006/DO_AN_C-/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
