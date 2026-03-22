@@ -126,6 +126,7 @@ Sinh viên Công nghệ thông tin
 | [0412-fizz-buzz](https://github.com/dai342006/DO_AN_C-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/dai342006/DO_AN_C-/tree/master/0424-longest-repeating-character-replacement) |
 | [0709-to-lower-case](https://github.com/dai342006/DO_AN_C-/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/dai342006/DO_AN_C-/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dai342006/DO_AN_C-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/dai342006/DO_AN_C-/tree/master/2000-reverse-prefix-of-word) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/dai342006/DO_AN_C-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -287,6 +288,7 @@ Sinh viên Công nghệ thông tin
 | [0454-4sum-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0454-4sum-ii) |
 | [0575-distribute-candies](https://github.com/dai342006/DO_AN_C-/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0771-jewels-and-stones](https://github.com/dai342006/DO_AN_C-/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
 |  |
