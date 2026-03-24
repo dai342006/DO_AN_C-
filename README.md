@@ -79,6 +79,7 @@ Sinh viên Công nghệ thông tin
 | [0744-find-smallest-letter-greater-than-target](https://github.com/dai342006/DO_AN_C-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/dai342006/DO_AN_C-/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dai342006/DO_AN_C-/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0748-shortest-completing-word](https://github.com/dai342006/DO_AN_C-/tree/master/0748-shortest-completing-word) |
 | [0881-boats-to-save-people](https://github.com/dai342006/DO_AN_C-/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
@@ -142,6 +143,7 @@ Sinh viên Công nghệ thông tin
 | [0680-valid-palindrome-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/dai342006/DO_AN_C-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/dai342006/DO_AN_C-/tree/master/0709-to-lower-case) |
+| [0748-shortest-completing-word](https://github.com/dai342006/DO_AN_C-/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/dai342006/DO_AN_C-/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dai342006/DO_AN_C-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/dai342006/DO_AN_C-/tree/master/2000-reverse-prefix-of-word) |
@@ -317,6 +319,7 @@ Sinh viên Công nghệ thông tin
 | [0697-degree-of-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0697-degree-of-an-array) |
 | [0705-design-hashset](https://github.com/dai342006/DO_AN_C-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dai342006/DO_AN_C-/tree/master/0706-design-hashmap) |
+| [0748-shortest-completing-word](https://github.com/dai342006/DO_AN_C-/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/dai342006/DO_AN_C-/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
