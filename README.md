@@ -191,6 +191,7 @@ Sinh viên Công nghệ thông tin
 | [0501-find-mode-in-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
 | [0872-leaf-similar-trees](https://github.com/dai342006/DO_AN_C-/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
@@ -230,6 +231,7 @@ Sinh viên Công nghệ thông tin
 | [0501-find-mode-in-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/dai342006/DO_AN_C-/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
@@ -245,6 +247,7 @@ Sinh viên Công nghệ thông tin
 | [0501-find-mode-in-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/dai342006/DO_AN_C-/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
