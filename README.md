@@ -70,6 +70,7 @@ Sinh viên Công nghệ thông tin
 | [0682-baseball-game](https://github.com/dai342006/DO_AN_C-/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/dai342006/DO_AN_C-/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/dai342006/DO_AN_C-/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/dai342006/DO_AN_C-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/dai342006/DO_AN_C-/tree/master/0739-daily-temperatures) |
@@ -307,6 +308,7 @@ Sinh viên Công nghệ thông tin
 | [0575-distribute-candies](https://github.com/dai342006/DO_AN_C-/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/dai342006/DO_AN_C-/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/dai342006/DO_AN_C-/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Two Pointers
@@ -376,6 +378,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0572-subtree-of-another-tree) |
+| [0705-design-hashset](https://github.com/dai342006/DO_AN_C-/tree/master/0705-design-hashset) |
 ## Backtracking
 |  |
 | ------- |
@@ -389,6 +392,7 @@ Sinh viên Công nghệ thông tin
 | [0141-linked-list-cycle](https://github.com/dai342006/DO_AN_C-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/dai342006/DO_AN_C-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0203-remove-linked-list-elements) |
+| [0705-design-hashset](https://github.com/dai342006/DO_AN_C-/tree/master/0705-design-hashset) |
 ## Sliding Window
 |  |
 | ------- |
@@ -405,6 +409,7 @@ Sinh viên Công nghệ thông tin
 | ------- |
 | [0155-min-stack](https://github.com/dai342006/DO_AN_C-/tree/master/0155-min-stack) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dai342006/DO_AN_C-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0705-design-hashset](https://github.com/dai342006/DO_AN_C-/tree/master/0705-design-hashset) |
 ## Monotonic Stack
 |  |
 | ------- |
