@@ -66,6 +66,7 @@ Sinh viên Công nghệ thông tin
 | [0605-can-place-flowers](https://github.com/dai342006/DO_AN_C-/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/dai342006/DO_AN_C-/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/dai342006/DO_AN_C-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/dai342006/DO_AN_C-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/dai342006/DO_AN_C-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
