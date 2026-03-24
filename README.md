@@ -108,6 +108,7 @@ Sinh viên Công nghệ thông tin
 | [0441-arranging-coins](https://github.com/dai342006/DO_AN_C-/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/dai342006/DO_AN_C-/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/dai342006/DO_AN_C-/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dai342006/DO_AN_C-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/dai342006/DO_AN_C-/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 | [1952-three-divisors](https://github.com/dai342006/DO_AN_C-/tree/master/1952-three-divisors) |
@@ -186,6 +187,7 @@ Sinh viên Công nghệ thông tin
 | [0231-power-of-two](https://github.com/dai342006/DO_AN_C-/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/dai342006/DO_AN_C-/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dai342006/DO_AN_C-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
 | ------- |
