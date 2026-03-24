@@ -240,6 +240,7 @@ Sinh viên Công nghệ thông tin
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/dai342006/DO_AN_C-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/dai342006/DO_AN_C-/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0965-univalued-binary-tree) |
@@ -256,6 +257,7 @@ Sinh viên Công nghệ thông tin
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/dai342006/DO_AN_C-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0872-leaf-similar-trees](https://github.com/dai342006/DO_AN_C-/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
 | [0965-univalued-binary-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0965-univalued-binary-tree) |
@@ -285,6 +287,7 @@ Sinh viên Công nghệ thông tin
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/dai342006/DO_AN_C-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/dai342006/DO_AN_C-/tree/master/0704-binary-search) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -341,6 +344,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/dai342006/DO_AN_C-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -400,8 +404,13 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dai342006/DO_AN_C-/tree/master/0155-min-stack) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/dai342006/DO_AN_C-/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/dai342006/DO_AN_C-/tree/master/0739-daily-temperatures) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/dai342006/DO_AN_C-/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
