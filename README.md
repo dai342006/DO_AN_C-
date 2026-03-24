@@ -67,6 +67,7 @@ Sinh viên Công nghệ thông tin
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/dai342006/DO_AN_C-/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/dai342006/DO_AN_C-/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/dai342006/DO_AN_C-/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/dai342006/DO_AN_C-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/dai342006/DO_AN_C-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
@@ -112,6 +113,7 @@ Sinh viên Công nghệ thông tin
 | [0412-fizz-buzz](https://github.com/dai342006/DO_AN_C-/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/dai342006/DO_AN_C-/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/dai342006/DO_AN_C-/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/dai342006/DO_AN_C-/tree/master/0682-baseball-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dai342006/DO_AN_C-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/dai342006/DO_AN_C-/tree/master/2293-min-max-game) |
 ## String
@@ -263,6 +265,7 @@ Sinh viên Công nghệ thông tin
 | [0143-reorder-list](https://github.com/dai342006/DO_AN_C-/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/dai342006/DO_AN_C-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/dai342006/DO_AN_C-/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/dai342006/DO_AN_C-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/dai342006/DO_AN_C-/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dai342006/DO_AN_C-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
