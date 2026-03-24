@@ -132,6 +132,7 @@ Sinh viên Công nghệ thông tin
 | [0424-longest-repeating-character-replacement](https://github.com/dai342006/DO_AN_C-/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/dai342006/DO_AN_C-/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/dai342006/DO_AN_C-/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/dai342006/DO_AN_C-/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/dai342006/DO_AN_C-/tree/master/0771-jewels-and-stones) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dai342006/DO_AN_C-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -316,6 +317,7 @@ Sinh viên Công nghệ thông tin
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/dai342006/DO_AN_C-/tree/master/0696-count-binary-substrings) |
 | [0881-boats-to-save-people](https://github.com/dai342006/DO_AN_C-/tree/master/0881-boats-to-save-people) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2000-reverse-prefix-of-word](https://github.com/dai342006/DO_AN_C-/tree/master/2000-reverse-prefix-of-word) |
