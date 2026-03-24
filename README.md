@@ -76,6 +76,7 @@ Sinh viên Công nghệ thông tin
 | [0724-find-pivot-index](https://github.com/dai342006/DO_AN_C-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/dai342006/DO_AN_C-/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/dai342006/DO_AN_C-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0881-boats-to-save-people](https://github.com/dai342006/DO_AN_C-/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
@@ -292,6 +293,7 @@ Sinh viên Công nghệ thông tin
 | [0700-search-in-a-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/dai342006/DO_AN_C-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/dai342006/DO_AN_C-/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/dai342006/DO_AN_C-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
