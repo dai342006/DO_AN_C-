@@ -72,6 +72,7 @@ Sinh viên Công nghệ thông tin
 | [0704-binary-search](https://github.com/dai342006/DO_AN_C-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/dai342006/DO_AN_C-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/dai342006/DO_AN_C-/tree/master/0706-design-hashmap) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/dai342006/DO_AN_C-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/dai342006/DO_AN_C-/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/dai342006/DO_AN_C-/tree/master/0739-daily-temperatures) |
