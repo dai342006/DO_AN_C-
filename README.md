@@ -88,6 +88,7 @@ Sinh viên Công nghệ thông tin
 | [1002-find-common-characters](https://github.com/dai342006/DO_AN_C-/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/dai342006/DO_AN_C-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/dai342006/DO_AN_C-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/dai342006/DO_AN_C-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2293-min-max-game](https://github.com/dai342006/DO_AN_C-/tree/master/2293-min-max-game) |
@@ -206,6 +207,7 @@ Sinh viên Công nghệ thông tin
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dai342006/DO_AN_C-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1009-complement-of-base-10-integer](https://github.com/dai342006/DO_AN_C-/tree/master/1009-complement-of-base-10-integer) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/dai342006/DO_AN_C-/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Recursion
 |  |
 | ------- |
