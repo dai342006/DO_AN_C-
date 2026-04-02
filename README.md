@@ -166,6 +166,7 @@ Sinh viên Công nghệ thông tin
 | [1002-find-common-characters](https://github.com/dai342006/DO_AN_C-/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/dai342006/DO_AN_C-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dai342006/DO_AN_C-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/dai342006/DO_AN_C-/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [2000-reverse-prefix-of-word](https://github.com/dai342006/DO_AN_C-/tree/master/2000-reverse-prefix-of-word) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/dai342006/DO_AN_C-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dai342006/DO_AN_C-/tree/master/2243-calculate-digit-sum-of-a-string) |
