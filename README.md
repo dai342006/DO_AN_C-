@@ -84,6 +84,7 @@ Sinh viên Công nghệ thông tin
 | [0748-shortest-completing-word](https://github.com/dai342006/DO_AN_C-/tree/master/0748-shortest-completing-word) |
 | [0881-boats-to-save-people](https://github.com/dai342006/DO_AN_C-/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
+| [0999-available-captures-for-rook](https://github.com/dai342006/DO_AN_C-/tree/master/0999-available-captures-for-rook) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2293-min-max-game](https://github.com/dai342006/DO_AN_C-/tree/master/2293-min-max-game) |
@@ -127,6 +128,7 @@ Sinh viên Công nghệ thông tin
 | [0566-reshape-the-matrix](https://github.com/dai342006/DO_AN_C-/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/dai342006/DO_AN_C-/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/dai342006/DO_AN_C-/tree/master/0682-baseball-game) |
+| [0999-available-captures-for-rook](https://github.com/dai342006/DO_AN_C-/tree/master/0999-available-captures-for-rook) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dai342006/DO_AN_C-/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/dai342006/DO_AN_C-/tree/master/2293-min-max-game) |
 ## String
@@ -241,6 +243,7 @@ Sinh viên Công nghệ thông tin
 | [0566-reshape-the-matrix](https://github.com/dai342006/DO_AN_C-/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/dai342006/DO_AN_C-/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
+| [0999-available-captures-for-rook](https://github.com/dai342006/DO_AN_C-/tree/master/0999-available-captures-for-rook) |
 ## Graph Theory
 |  |
 | ------- |
