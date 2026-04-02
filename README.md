@@ -89,6 +89,7 @@ Sinh viên Công nghệ thông tin
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/dai342006/DO_AN_C-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/dai342006/DO_AN_C-/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/dai342006/DO_AN_C-/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1030-matrix-cells-in-distance-order](https://github.com/dai342006/DO_AN_C-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2293-min-max-game](https://github.com/dai342006/DO_AN_C-/tree/master/2293-min-max-game) |
@@ -117,6 +118,7 @@ Sinh viên Công nghệ thông tin
 | [0728-self-dividing-numbers](https://github.com/dai342006/DO_AN_C-/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dai342006/DO_AN_C-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1025-divisor-game](https://github.com/dai342006/DO_AN_C-/tree/master/1025-divisor-game) |
+| [1030-matrix-cells-in-distance-order](https://github.com/dai342006/DO_AN_C-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 | [1952-three-divisors](https://github.com/dai342006/DO_AN_C-/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/dai342006/DO_AN_C-/tree/master/2235-add-two-integers) |
@@ -189,6 +191,7 @@ Sinh viên Công nghệ thông tin
 ## Geometry
 |  |
 | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/dai342006/DO_AN_C-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 ## Brainteaser
 |  |
@@ -254,6 +257,7 @@ Sinh viên Công nghệ thông tin
 | [0661-image-smoother](https://github.com/dai342006/DO_AN_C-/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
 | [0999-available-captures-for-rook](https://github.com/dai342006/DO_AN_C-/tree/master/0999-available-captures-for-rook) |
+| [1030-matrix-cells-in-distance-order](https://github.com/dai342006/DO_AN_C-/tree/master/1030-matrix-cells-in-distance-order) |
 ## Graph Theory
 |  |
 | ------- |
@@ -384,6 +388,7 @@ Sinh viên Công nghệ thông tin
 | [0881-boats-to-save-people](https://github.com/dai342006/DO_AN_C-/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/dai342006/DO_AN_C-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1030-matrix-cells-in-distance-order](https://github.com/dai342006/DO_AN_C-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
 |  |
