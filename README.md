@@ -143,6 +143,7 @@ Sinh viên Công nghệ thông tin
 | [0520-detect-capital](https://github.com/dai342006/DO_AN_C-/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/dai342006/DO_AN_C-/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/dai342006/DO_AN_C-/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/dai342006/DO_AN_C-/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/dai342006/DO_AN_C-/tree/master/0696-count-binary-substrings) |
