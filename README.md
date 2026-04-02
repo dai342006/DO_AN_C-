@@ -63,6 +63,7 @@ Sinh viên Công nghệ thông tin
 | [0485-max-consecutive-ones](https://github.com/dai342006/DO_AN_C-/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/dai342006/DO_AN_C-/tree/master/0495-teemo-attacking) |
 | [0561-array-partition](https://github.com/dai342006/DO_AN_C-/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/dai342006/DO_AN_C-/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/dai342006/DO_AN_C-/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/dai342006/DO_AN_C-/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
@@ -123,6 +124,7 @@ Sinh viên Công nghệ thông tin
 | [0258-add-digits](https://github.com/dai342006/DO_AN_C-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/dai342006/DO_AN_C-/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/dai342006/DO_AN_C-/tree/master/0495-teemo-attacking) |
+| [0566-reshape-the-matrix](https://github.com/dai342006/DO_AN_C-/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/dai342006/DO_AN_C-/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/dai342006/DO_AN_C-/tree/master/0682-baseball-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/dai342006/DO_AN_C-/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -236,6 +238,7 @@ Sinh viên Công nghệ thông tin
 | ------- |
 | [0200-number-of-islands](https://github.com/dai342006/DO_AN_C-/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/dai342006/DO_AN_C-/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/dai342006/DO_AN_C-/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/dai342006/DO_AN_C-/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/dai342006/DO_AN_C-/tree/master/0733-flood-fill) |
 ## Graph Theory
