@@ -203,6 +203,7 @@ Sinh viên Công nghệ thông tin
 | [0342-power-of-four](https://github.com/dai342006/DO_AN_C-/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/dai342006/DO_AN_C-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1009-complement-of-base-10-integer](https://github.com/dai342006/DO_AN_C-/tree/master/1009-complement-of-base-10-integer) |
 ## Recursion
 |  |
 | ------- |
