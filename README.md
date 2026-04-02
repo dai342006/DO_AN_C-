@@ -142,6 +142,7 @@ Sinh viên Công nghệ thông tin
 | [0424-longest-repeating-character-replacement](https://github.com/dai342006/DO_AN_C-/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/dai342006/DO_AN_C-/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/dai342006/DO_AN_C-/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0541-reverse-string-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/dai342006/DO_AN_C-/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/dai342006/DO_AN_C-/tree/master/0696-count-binary-substrings) |
@@ -336,6 +337,7 @@ Sinh viên Công nghệ thông tin
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dai342006/DO_AN_C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/dai342006/DO_AN_C-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/dai342006/DO_AN_C-/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0541-reverse-string-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/dai342006/DO_AN_C-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0680-valid-palindrome-ii) |
