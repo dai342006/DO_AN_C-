@@ -62,6 +62,7 @@ Sinh viên Công nghệ thông tin
 | [0463-island-perimeter](https://github.com/dai342006/DO_AN_C-/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/dai342006/DO_AN_C-/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/dai342006/DO_AN_C-/tree/master/0495-teemo-attacking) |
+| [0561-array-partition](https://github.com/dai342006/DO_AN_C-/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/dai342006/DO_AN_C-/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/dai342006/DO_AN_C-/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
@@ -159,6 +160,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/dai342006/DO_AN_C-/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/dai342006/DO_AN_C-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/dai342006/DO_AN_C-/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/dai342006/DO_AN_C-/tree/master/0881-boats-to-save-people) |
@@ -358,6 +360,7 @@ Sinh viên Công nghệ thông tin
 | [0217-contains-duplicate](https://github.com/dai342006/DO_AN_C-/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/dai342006/DO_AN_C-/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/dai342006/DO_AN_C-/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/dai342006/DO_AN_C-/tree/master/0561-array-partition) |
 | [0658-find-k-closest-elements](https://github.com/dai342006/DO_AN_C-/tree/master/0658-find-k-closest-elements) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dai342006/DO_AN_C-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/dai342006/DO_AN_C-/tree/master/0881-boats-to-save-people) |
@@ -385,6 +388,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/dai342006/DO_AN_C-/tree/master/0383-ransom-note) |
+| [0561-array-partition](https://github.com/dai342006/DO_AN_C-/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
 ## Prefix Sum
 |  |
