@@ -92,6 +92,7 @@ Sinh viên Công nghệ thông tin
 | [1030-matrix-cells-in-distance-order](https://github.com/dai342006/DO_AN_C-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dai342006/DO_AN_C-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2293-min-max-game](https://github.com/dai342006/DO_AN_C-/tree/master/2293-min-max-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/dai342006/DO_AN_C-/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Dynamic Programming
@@ -353,6 +354,7 @@ Sinh viên Công nghệ thông tin
 | [0771-jewels-and-stones](https://github.com/dai342006/DO_AN_C-/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/dai342006/DO_AN_C-/tree/master/1002-find-common-characters) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dai342006/DO_AN_C-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -390,6 +392,7 @@ Sinh viên Công nghệ thông tin
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/dai342006/DO_AN_C-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/dai342006/DO_AN_C-/tree/master/1030-matrix-cells-in-distance-order) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dai342006/DO_AN_C-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -414,6 +417,7 @@ Sinh viên Công nghệ thông tin
 | [0383-ransom-note](https://github.com/dai342006/DO_AN_C-/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/dai342006/DO_AN_C-/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/dai342006/DO_AN_C-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |
