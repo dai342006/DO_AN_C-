@@ -86,6 +86,7 @@ Sinh viên Công nghệ thông tin
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
 | [0999-available-captures-for-rook](https://github.com/dai342006/DO_AN_C-/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/dai342006/DO_AN_C-/tree/master/1002-find-common-characters) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/dai342006/DO_AN_C-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1037-valid-boomerang](https://github.com/dai342006/DO_AN_C-/tree/master/1037-valid-boomerang) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2293-min-max-game](https://github.com/dai342006/DO_AN_C-/tree/master/2293-min-max-game) |
@@ -170,6 +171,7 @@ Sinh viên Công nghệ thông tin
 | [0605-can-place-flowers](https://github.com/dai342006/DO_AN_C-/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/dai342006/DO_AN_C-/tree/master/0881-boats-to-save-people) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/dai342006/DO_AN_C-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/dai342006/DO_AN_C-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 ## Enumeration
 |  |
@@ -374,6 +376,7 @@ Sinh viên Công nghệ thông tin
 | [0747-largest-number-at-least-twice-of-others](https://github.com/dai342006/DO_AN_C-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0881-boats-to-save-people](https://github.com/dai342006/DO_AN_C-/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/dai342006/DO_AN_C-/tree/master/0912-sort-an-array) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/dai342006/DO_AN_C-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/dai342006/DO_AN_C-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Heap (Priority Queue)
 |  |
