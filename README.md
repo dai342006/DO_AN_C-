@@ -161,6 +161,7 @@ Sinh viên Công nghệ thông tin
 | [0748-shortest-completing-word](https://github.com/dai342006/DO_AN_C-/tree/master/0748-shortest-completing-word) |
 | [0771-jewels-and-stones](https://github.com/dai342006/DO_AN_C-/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/dai342006/DO_AN_C-/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/dai342006/DO_AN_C-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dai342006/DO_AN_C-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/dai342006/DO_AN_C-/tree/master/2000-reverse-prefix-of-word) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/dai342006/DO_AN_C-/tree/master/2224-minimum-number-of-operations-to-convert-time) |
@@ -305,6 +306,7 @@ Sinh viên Công nghệ thông tin
 | [0682-baseball-game](https://github.com/dai342006/DO_AN_C-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/dai342006/DO_AN_C-/tree/master/0739-daily-temperatures) |
 | [0897-increasing-order-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0897-increasing-order-search-tree) |
+| [1021-remove-outermost-parentheses](https://github.com/dai342006/DO_AN_C-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dai342006/DO_AN_C-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/dai342006/DO_AN_C-/tree/master/2000-reverse-prefix-of-word) |
 ## Binary Search Tree
