@@ -140,6 +140,7 @@ Sinh viên Công nghệ thông tin
 | [0392-is-subsequence](https://github.com/dai342006/DO_AN_C-/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/dai342006/DO_AN_C-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/dai342006/DO_AN_C-/tree/master/0424-longest-repeating-character-replacement) |
+| [0520-detect-capital](https://github.com/dai342006/DO_AN_C-/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/dai342006/DO_AN_C-/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/dai342006/DO_AN_C-/tree/master/0696-count-binary-substrings) |
