@@ -150,6 +150,7 @@ Sinh viên Công nghệ thông tin
 | [0006-zigzag-conversion](https://github.com/dai342006/DO_AN_C-/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/dai342006/DO_AN_C-/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/dai342006/DO_AN_C-/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/dai342006/DO_AN_C-/tree/master/0125-valid-palindrome) |
 | [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/dai342006/DO_AN_C-/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/dai342006/DO_AN_C-/tree/master/0383-ransom-note) |
@@ -377,6 +378,7 @@ Sinh viên Công nghệ thông tin
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/dai342006/DO_AN_C-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dai342006/DO_AN_C-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/dai342006/DO_AN_C-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/dai342006/DO_AN_C-/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/dai342006/DO_AN_C-/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dai342006/DO_AN_C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
