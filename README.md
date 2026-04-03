@@ -53,6 +53,7 @@ Sinh viên Công nghệ thông tin
 | [0035-search-insert-position](https://github.com/dai342006/DO_AN_C-/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dai342006/DO_AN_C-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/dai342006/DO_AN_C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dai342006/DO_AN_C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -101,6 +102,7 @@ Sinh viên Công nghệ thông tin
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/dai342006/DO_AN_C-/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dai342006/DO_AN_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/dai342006/DO_AN_C-/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/dai342006/DO_AN_C-/tree/master/0746-min-cost-climbing-stairs) |
