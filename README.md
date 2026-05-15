@@ -1,4 +1,4 @@
-# DO_AN_C-
+# DO_AN_LAP_TRINH-
 # 📚 DSA Practice – C++ / Python
 
 Repository này chứa các bài tập **Data Structures & Algorithms (DSA)** mà mình luyện tập trong quá trình học lập trình.
