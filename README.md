@@ -28,12 +28,6 @@ Các bài tập bao gồm:
 * Same Tree
 * Symmetric Tree
 
-## 🎯 Mục tiêu
-
-* Luyện tư duy thuật toán
-* Hiểu rõ cấu trúc dữ liệu
-* Chuẩn bị cho phỏng vấn lập trình
-
 ## 👨‍💻 Author
 
 Nguyễn Quốc Đại
@@ -41,7 +35,6 @@ Sinh viên Công nghệ thông tin
 
 ---
 
-⭐ Nếu repo hữu ích hãy để lại **Star** nhé!
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
