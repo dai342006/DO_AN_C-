@@ -44,6 +44,7 @@ Sinh viên Công nghệ thông tin
 | [0001-two-sum](https://github.com/dai342006/DO_AN_C-/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dai342006/DO_AN_C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/dai342006/DO_AN_C-/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/dai342006/DO_AN_C-/tree/master/0039-combination-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/dai342006/DO_AN_C-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/dai342006/DO_AN_C-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/dai342006/DO_AN_C-/tree/master/0119-pascals-triangle-ii) |
@@ -449,6 +450,7 @@ Sinh viên Công nghệ thông tin
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/dai342006/DO_AN_C-/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/dai342006/DO_AN_C-/tree/master/0257-binary-tree-paths) |
 ## Linked List
 |  |
